@@ -1,10 +1,11 @@
-import Navigation from "../components/navigation";
+import Character from "../components/character";
 
 const Page = () => {
-  return <div>
-    <Navigation />
-    <h1>hello</h1>
-  </div>;
+  return (
+    <div>
+      <Character />
+    </div>
+  );
 };
 
 export default Page;
