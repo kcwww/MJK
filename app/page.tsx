@@ -1,9 +1,9 @@
-import Character from "../components/character";
+import Navigation from "../components/navigation";
 
 const Page = () => {
   return (
     <div>
-      <Character />
+      <Navigation />
     </div>
   );
 };
